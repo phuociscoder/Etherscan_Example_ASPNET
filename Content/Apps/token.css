@@ -1,0 +1,27 @@
+﻿.info-table {
+
+}
+
+.row {
+    margin-top: 10px;
+}
+
+.grd {
+    width: 100%;
+}
+
+.grd-header {
+    text-align: center !important;
+}
+
+.grd-cell {
+    padding: 10px;
+}
+
+.hoverTable {
+    width: 50%;
+}
+
+.grd-panigation {
+
+}
